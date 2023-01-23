@@ -4,3 +4,5 @@
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://marcusviniciusjose.github.io/html-css/Desafios/D010/">Executar o Desafio 010</a>
+
+<a href="https://marcusviniciusjose.github.io/html-css/Desafios/D012/cordel">Executar o Desafio 012</a>
