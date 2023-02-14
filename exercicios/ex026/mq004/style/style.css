@@ -8,22 +8,30 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    /*incluir a borda no cálculo do tamanho */
 }
+
+
 
 
 html {
     height: 100vh;
 }
 
+
+
+
 body {
-    background: rgb(20, 20, 20) url(../img/back-phone.jpg) no-repeat;
+    background: black url(../img/back-phone.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 
+
+
 main {
-    background-color: rgba(255, 255, 255, 0.76);
+    background-color: rgba(255, 255, 255, 0.842);
     width: 400px;
     margin: auto;
     margin-top: 20px;
@@ -31,34 +39,41 @@ main {
     padding: 10px;
 }
 
+
+
+
 h1 {
     text-align: center;
     color: white;
     font-size: 2em;
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.651);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.493);
 }
+
+
+
 
 img {
     display: block;
     margin: auto;
 }
 
-#phone {
+
+img#phone {
     display: block;
 }
 
-#tablet {
+img#tablet {
     display: none;
 }
 
-#print {
+img#print {
     display: none;
 }
 
-#pc {
+img#pc {
     display: none;
 }
 
-#tv {
+img#tv {
     display: none;
 }
